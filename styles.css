@@ -1,3 +1,18 @@
+.copy-to-clipboard-icon,
+.open-link-icon {
+	cursor: pointer;
+	/* fill: #61afef; */
+	fill: #6eb4ec;
+	margin-left: 2px;
+}
+
+.copy-to-clipboard-icon svg,
+.open-link-icon svg {
+	width: 18px;
+	height: 18px;
+	transform: translateY(3px);
+}
+
 .copy-to-clipboard-icon {
-    cursor: pointer
+	margin-left: 4px;
 }
